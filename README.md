@@ -18,12 +18,6 @@ You can view the live demo of this project [here](https://heartfelt-llama-4c5105
 
 ![image](https://github.com/user-attachments/assets/63467aba-dd32-4eee-ae69-d7d235af31b8)
 
-### Desktop View
-![Desktop View](./screenshots/desktop-view.png)
-
-### Mobile View
-![Mobile View](./screenshots/mobile-view.png)
-
 ## Files
 
 - **index.html**: The main HTML file containing the structure of the stats preview card.
