@@ -14,7 +14,7 @@ This project is a **Stats Preview Card Component** built as part of a challenge 
 
 You can view the live demo of this project [here](https://heartfelt-llama-4c5105.netlify.app/)
 
-## Screenshots
+## Screenshot
 
 ![image](https://github.com/user-attachments/assets/63467aba-dd32-4eee-ae69-d7d235af31b8)
 
